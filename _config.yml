@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Stories I Wrote Live on Twitch
-email: your-email@example.com
+email: revealingontwitch@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   revealingtoomuch is a Twitch affiliate who mostly plays games. Sometimes, though, he writes. These are those stories.
 baseurl: "" # the subpath of your site, e.g. /blog
